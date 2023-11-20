@@ -6,5 +6,36 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Ocean </title>
+    <style>
+      
+    </style>
+    </head>
+
+<body>
+    <h1 class="center">Main caption</h1>
+    <div class="row">
+        <div class="col-lg-4 col-md-5 col-sm-12" id="container">
+            <h2 class="oneC" >Caption 1</h2>
+            <p class="text-caption">Україна славиться різноманітністю та красою, а гарні дівчата є єдиним із виразних рис національного образу. У кожному куточку цієї країни можна зустріти прекрасних представників статі, які виражають її неповторну природну красу.
+.</p>
+        </div>
+        <div class="col-lg-4 col-md-5 col-sm-12" id="container">
+            <h2 class="twoC">Caption 2</h2>
+            <p class="text-caption">Борщ – це символ української кухні, який об'єднує смак, традиції та витончений аромат. Кожна ложка борщу – це подорож у світ теплих зустрічей, домашнього затишку та вдячності традиціям. Своїм унікальним смаком він нам і полюбився.
+</p>
+        </div>
+        <div class="col-lg-4 col-md-12" id="container">
+            <h2 class="threeC">Caption 3</h2>
+            <p class="text-caption">Вареники – найсмачніший символ української кухні. Це тісто, яке обіймає смачну начинку, створюючи симфонію смаку. Кожен вареник – це частинка тепла від серця, господині яка його приготувала.
+
+
+
+
+</p>
+        </div>
     
+</div>  
+</body>
+
+</html>
     
