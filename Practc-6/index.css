@@ -4,3 +4,6 @@ dekstop.png
 tablet.png
 @media (min-width: 768px) and (max-width: 992px){
 }
+mobile.png
+@media (max-width: 768px){
+}
