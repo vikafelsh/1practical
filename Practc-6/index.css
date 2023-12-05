@@ -1,8 +1,22 @@
 dekstop.png
 @media (min-width: 992px){
-
+  .box {
+    display: flex;
+    flex-direction: row;
+  }
+}
 tablet.png
 @media (min-width: 768px) and (max-width: 992px){
-
+  .box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
 mobile.png
 @media (max-width: 768px){
+   .box {
+    display: flex;
+    flex-direction: column;
+  }
+}
