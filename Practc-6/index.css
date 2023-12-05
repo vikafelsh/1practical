@@ -1,22 +1,33 @@
-dekstop.png
-@media (min-width: 992px){
+/* Mobile */
+
+@media (max-width: 768px){
   .box {
-    display: flex;
-    flex-direction: row;
-  }
+   display: flex;
+   flex-direction: column;
+ }
 }
-tablet.png
+
+/* Tablet */
+
 @media (min-width: 768px) and (max-width: 992px){
   .box {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
   }
+
+  .item {
+    flex-basis: 50%;
+    flex-grow: 1;
+  }
 }
-mobile.png
-@media (max-width: 768px){
-   .box {
+
+/* Desktop */
+
+@media (min-width: 992px){
+  .box {
     display: flex;
-    flex-direction: column;
+    gap: 0 30px;
+    justify-content: space-around;
+    align-items: center;
   }
 }
