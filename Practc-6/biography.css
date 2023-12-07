@@ -1,1 +1,21 @@
+@media (min-width: 993px) {
+    .col-lg-4 {
+        width: 33.33%;
+    }
+    .col-lg-8 {
+        width: 50%;
+    }
+}
 
+@media (min-width: 769px) and (max-width: 992px) {
+    .col-md-6 {
+        width: 50%;
+    }
+
+    .col-md-12 {
+        width: 50%;
+    }
+    .col-md-18 {
+        width: 100%;
+    }
+}
