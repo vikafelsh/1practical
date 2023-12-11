@@ -1,1 +1,105 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 5px;
+  }
+  td{
+    background-color: white;
+  }
+  th{
+    background-color: antiquewhite;
+  }
 
+#text{
+    border: 2px solid black;
+    margin: 5px;
+    background-color:#466A44;
+    width: 30%;
+    text-align: center;
+    color:#E0D5BE;
+    font-size: 1.2em;
+    }
+
+#li{
+    border: 2px solid black;
+    margin: 5px;
+    background-color:azure;
+    width: 30%;
+    text-align: center;
+    color:#483948;
+    font-size: 1.2em;
+}
+
+#tab{
+    border: 2px solid black;
+    margin: 5px;
+    background-color: lightsalmon;
+    width: 15%;
+    text-align: center;
+    color:aquamarine;
+    font-size: 1.2em;
+}
+
+#pic{
+    border: 2px solid black;
+    margin: 5px;
+    background-color: lavender;
+    width: 25%;
+    text-align: center;
+    color:blue;
+    font-size: 1.2em;
+}
+
+.lorem{
+    border: 3px solid black;
+    background-color: #9AA8A8;
+    margin: 10px;
+    color: #45101a;
+}
+
+.list{
+    border: 3px solid black;
+    background-color: #2D4628;
+    margin: 10px;
+    color:aquamarine;
+  }
+
+.table{
+    border: 3px solid black;
+    background-color: lightblue;
+    margin: 10px;
+    color:darkblue;
+}
+
+.picture{
+    border: 3px solid black;
+    background-color: antiquewhite;
+    margin: 10px;
+}
+
+img {
+    margin: 5px;
+    width: 500px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.font{
+    font-family: 'Afacad', sans-serif;
+    font-family: 'Hedvig Letters Serif', serif;
+    font-family: 'Kalnia', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Rethink Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fon{
+    font-family: 'Regular' 400 Italic; 
+}
+
+.f{
+    font-family:'Black' 900 Italic;
+}
